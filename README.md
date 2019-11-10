@@ -7,7 +7,10 @@ This is a simple html parser, it really is nothing super serious. However, it wi
 ```go
     package main
 
-    import "github.com/timolinn/html-parser"
+    import (
+            "fmt"
+            "github.com/timolinn/html-parser"
+        )
 
     func main() {
         tmpl := []byte(`<html><body><p id="hw">Hello, world</p></body></html>`)
