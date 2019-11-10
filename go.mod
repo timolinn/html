@@ -1,4 +1,4 @@
-module github/timolinn/html-parser
+module github.com/timolinn/html-parser
 
 go 1.12
 
