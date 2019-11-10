@@ -18,4 +18,4 @@ This is a simple html parser, it really is nothing super serious. However, it wi
 
 ## Contributing
 
-While I'm not currently investing heavily because of time. I'm open to welcoming new pull requests for new features or generally using better parsing algorithms.
+While I'm not currently investing heavily because of time. I'm open to welcoming new pull requests for new features or general improvements.
