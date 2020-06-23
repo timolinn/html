@@ -1,5 +1,7 @@
 # HTML Parser
 
+## I am currently re-writing this parser.
+
 This is a simple html parser, it really is nothing super serious. However, it will power [nginB](https://github.com/timolinn/nginB), a mini browser engine.
 
 ## Usage
